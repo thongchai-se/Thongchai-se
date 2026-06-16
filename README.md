@@ -401,15 +401,9 @@ const thongchai = {
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Thongchai-se&theme=discord_old_blurple&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+    <img width="100%" src="[https://github-profile-trophy.vercel.app/?username=Thongchai-se&theme=discord_old_blurple&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C](https://github-profile-trophy-tawny.vercel.app/?username=Thongchai-se&theme=discord_old_blurple&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)" />
   </a>
 </div>
-
-<br/>
-
-> **Note :** ถ้า trophy ยังไม่ขึ้น → เปิด [github-profile-trophy.vercel.app/?username=Thongchai-se](https://github-profile-trophy.vercel.app/?username=Thongchai-se) ตรงๆ เพื่อ warm cache ก่อน หรือรอ commit แรกให้ GitHub index account
-
-<br/>
 
 ---
 
