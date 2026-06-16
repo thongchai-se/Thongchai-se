@@ -1,23 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:2E0854,100:4B0082&height=230&section=header&text=Thongchai%20Seesan&fontSize=46&fontColor=E5D4FF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20Student&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    ✦  ANIMATED HEADER  ✦                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Thongchai-se">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;AI+Engineer;Building+Production-Grade+Systems&font=Fira+Code&size=21&pause=1100&color=B794F4&background=00000000&center=true&width=620&height=45&vCenter=true" alt="typing-svg"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-Thailand-2E0854?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Email-thongchai.isaac%40gmail.com-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/University-Khon%20Kaen%20University-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Thongchai%20Seesan&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20To-SWE%20Internship-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Full%20Stack%20Roles-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-AI%20Engineer%20Roles-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-OSS%20Collaboration-6A0DAD?style=for-the-badge"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=680&lines=Building+scalable+full-stack+applications;Engineering+AI-powered+systems;Exploring+LLMs%2C+RAG+%26+Cloud+Architecture;Open+to+SWE+Internships+%26+Collaboration)](https://git.io/typing-svg)
+
+<br/>
+
+<p>
+  <a href="mailto:thongchai.isaac@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-thongchai.isaac%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Thongchai-se">
+    <img src="https://img.shields.io/badge/GitHub-Thongchai--se-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Thailand-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a0533" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a0533" />
+</p>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Thongchai-se&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Thongchai-se?style=for-the-badge&color=6D28D9&labelColor=1a0533&label=FOLLOWERS)
 
 </div>
 
@@ -25,293 +38,562 @@
 
 ---
 
-<h2 align="center">About</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                       ✦  ABOUT ME  ✦                             -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<table align="center" width="100%">
-<tr>
-<td width="65%" valign="top">
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-About%20Me-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
 
-> Computer Science student passionate about Software Engineering, Full Stack Development, AI Engineering, and Product Development. Experienced in building scalable web applications and AI-powered systems with modern technologies. Interested in cloud computing, DevOps, and building production-grade applications.
+```typescript
+const thongchai = {
+  name        : "Thongchai Seesan",
+  alias       : "Thongchai-se",
+  location    : "Thailand",
+  university  : "Khon Kaen University — Computer Science",
+  role        : ["Full Stack Developer", "AI Engineer", "CS Student"],
 
-</td>
-<td width="35%" valign="top">
+  currentWork : "Software Engineer Intern @ SnakeEye Corp (2026 – Present)",
+  interests   : ["System Design", "AI Engineering", "Cloud Computing", "DevOps"],
 
-| | |
-|---|---|
-| **Role** | CS Student / Full Stack Dev / AI Engineer |
-| **Location** | Thailand |
-| **Focus** | Web · AI · Cloud · DevOps |
-| **Status** | Open to Internships |
+  openTo      : [
+    "Software Engineer Internship",
+    "Full Stack Developer Roles",
+    "AI Engineer Roles",
+    "Open Source Collaboration"
+  ],
 
-</td>
-</tr>
+  philosophy  : "Build things that scale. Ship things that matter.",
+};
+```
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/EDUCATION-Computer%20Science%20Student-8B5CF6?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a0533" /><br/>
+      Khon Kaen University
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/POSITION-Software%20Engineer%20Intern-6D28D9?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1a0533" /><br/>
+      SnakeEye Corp · 2026–Present
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DOMAIN-AI%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0533" /><br/>
+      LLMs · RAG · Prompt Engineering
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FOCUS-Cloud%20%26%20DevOps-4F46E5?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1a0533" /><br/>
+      Docker · GitHub Actions · Vercel
+    </td>
+  </tr>
 </table>
+
+<br/>
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    ✦  TECH STACK  ✦                              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Tech%20Stack-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+  <p><em>Technologies I build production-grade systems with</em></p>
+</div>
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=4B0082"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&color=4F46E5"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=3B82F6"/>
+<img src="https://img.shields.io/badge/LANGUAGES-1a0533?style=for-the-badge&labelColor=1a0533" />
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=4B0082"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&color=4F46E5"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=3B82F6"/>
+<img src="https://img.shields.io/badge/FRONTEND-1a0533?style=for-the-badge&labelColor=1a0533" />
 
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=4B0082"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&color=6A0DAD"/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Cloud & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=4F46E5"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=3B82F6"/>
+<img src="https://img.shields.io/badge/BACKEND-1a0533?style=for-the-badge&labelColor=1a0533" />
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=4B0082"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=4F46E5"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+<img src="https://img.shields.io/badge/DATABASES-1a0533?style=for-the-badge&labelColor=1a0533" />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-1a0533?style=for-the-badge&labelColor=1a0533" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<img src="https://img.shields.io/badge/TOOLS-1a0533?style=for-the-badge&labelColor=1a0533" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-<h2 align="center">AI / ML Expertise</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦  AI / ML EXPERTISE  ✦                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-AI%20%2F%20ML%20Expertise-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+  <p><em>Building intelligent systems at the intersection of software and AI</em></p>
+</div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white&color=4B0082"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge"/>
-
-<br/><br/>
-
-<table width="90%">
-<tr>
-<td align="center" width="33%"><b>LLM Integration</b><br/>Building applications on top of large language models via the OpenAI API.</td>
-<td align="center" width="33%"><b>Retrieval-Augmented Generation</b><br/>Designing RAG pipelines to ground model outputs in domain-specific data.</td>
-<td align="center" width="33%"><b>Workflow Orchestration</b><br/>Using LangChain to chain prompts, tools, and memory into coherent agents.</td>
-</tr>
-</table>
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-4F46E5?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
 
----
-
-<h2 align="center">Featured Projects</h2>
-
-<details open>
-<summary><b>AI Chatbot Platform</b></summary>
 <br/>
 
-**Description:** AI-powered chatbot platform built with a modern full-stack architecture, designed for multi-user environments and extensible automation.
+<div align="center">
 
-| Category | Detail |
-|---|---|
+| Domain | Skills | Proficiency |
+|:------:|:------:|:-----------:|
+| **Large Language Models** | GPT-4, LLM APIs, Token Optimization | ██████████ Advanced |
+| **LangChain** | Chains, Agents, Memory, Tools | ████████░░ Proficient |
+| **RAG Systems** | Vector DBs, Embeddings, Retrieval | ████████░░ Proficient |
+| **Prompt Engineering** | Zero-shot, Few-shot, CoT | ██████████ Advanced |
+| **API Integration** | RESTful AI APIs, Streaming | ██████████ Advanced |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦  FEATURED PROJECTS  ✦                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Featured%20Projects-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+  <p><em>Handcrafted systems built for scale, performance, and real-world impact</em></p>
+</div>
+
+<details>
+<summary>
+  <b>[ AI Chatbot Platform ]</b>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Production-22c55e?style=flat-square&labelColor=1a0533" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Type-Full%20Stack%20%2B%20AI-8B5CF6?style=flat-square&labelColor=1a0533" />
+  &nbsp;&nbsp;← click to expand
+</summary>
+
+<br/>
+
+> **AI-powered chatbot platform built with a modern full-stack architecture, enabling intelligent multi-user conversations at scale.**
+
+<br/>
+
+<div align="center">
+
+| Category | Details |
+|:---:|:---|
 | **Stack** | Next.js · TypeScript · Node.js · PostgreSQL · Firebase |
-| **Scale** | Multi-user |
-| **Performance** | Optimized API architecture |
-| **Security** | Authentication and secure database design |
-| **Impact** | Improved automation and user interaction |
+| **Scale** | Multi-user architecture with concurrent session support |
+| **Performance** | Optimized API architecture with low-latency response pipeline |
+| **Security** | End-to-end authentication & secure database schema design |
+| **AI Layer** | OpenAI API integration with context-aware conversation memory |
+| **Impact** | Measurably improved workflow automation and user interaction quality |
 
-<div align="center">
-<a href="https://github.com/Thongchai-se">
-<img src="https://img.shields.io/badge/View%20Repository-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </div>
+
+<br/>
+
+**Key Engineering Decisions:**
+- Designed a stateless, scalable backend with Express.js and PostgreSQL for reliable message persistence
+- Implemented Firebase for real-time presence and notification delivery
+- Built a streaming response pipeline for low-latency AI replies
+- Architected secure multi-tenant data isolation patterns
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533)](https://github.com/Thongchai-se)
 
 </details>
 
----
-
-<h2 align="center">Experience</h2>
-
-<table align="center" width="100%">
-<tr>
-<th align="left">Role</th>
-<th align="left">Company</th>
-<th align="left">Duration</th>
-</tr>
-<tr>
-<td>Software Engineer Intern</td>
-<td>SnakeEye Corp</td>
-<td>2026 — Present</td>
-</tr>
-</table>
-
-**Responsibilities**
-
-- Develop and maintain software systems.
-- Collaborate with engineering teams.
-- Build scalable backend services.
-- Work with modern development workflows.
+<br/>
 
 ---
 
-<h2 align="center">Achievements</h2>
-
-| Milestone |
-|---|
-| Computer Science Student at Khon Kaen University |
-| Software Engineering Enthusiast |
-| AI Engineering Enthusiast |
-| Open Source Learner |
-
----
-
-<h2 align="center">Certifications</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    ✦  EXPERIENCE  ✦                              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-| Provider | Status |
-|---|---|
-| AWS | <img src="https://img.shields.io/badge/Planned-4B0082?style=for-the-badge"/> |
-| Oracle | <img src="https://img.shields.io/badge/Planned-6A0DAD?style=for-the-badge"/> |
-| Cisco | <img src="https://img.shields.io/badge/Planned-4F46E5?style=for-the-badge"/> |
-| NPTEL | <img src="https://img.shields.io/badge/Planned-8B5CF6?style=for-the-badge"/> |
-
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Experience-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
 </div>
 
----
-
-<h2 align="center">Coding Profiles</h2>
-
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-4B0082?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-6A0DAD?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-3B82F6?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   [ SnakeEye Corp ]                                                 │
+│     Software Engineer Intern                      2026 – Present    │
+│                                                                     │
+│   ▸  Develop and maintain production-grade software systems         │
+│   ▸  Collaborate across engineering teams on feature delivery       │
+│   ▸  Build scalable backend services with modern tooling            │
+│   ▸  Participate in code review, planning & agile workflows         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thongchai-se&show_icons=true&title_color=B794F4&icon_color=8B5CF6&text_color=C9A7FF&bg_color=0D0221&border_color=4B0082&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thongchai-se&layout=compact&title_color=B794F4&icon_color=8B5CF6&text_color=C9A7FF&bg_color=0D0221&border_color=4B0082&hide_border=false" width="48%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Thongchai-se&theme=dark&background=0D0221&border=4B0082&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9A7FF&sideLabels=C9A7FF&dates=8B5CF6&currStreakNum=E5D4FF&sideNums=E5D4FF" width="70%"/>
-
-</div>
-
 ---
 
-<h2 align="center">GitHub Trophies</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   ✦  ACHIEVEMENTS  ✦                             -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Achievements-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thongchai-se&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+| Achievement | Details |
+|:---:|:---|
+| **CS Student** | Computer Science @ Khon Kaen University |
+| **Software Engineering** | Passionate practitioner building real-world systems |
+| **AI Engineering** | Hands-on builder of AI-powered applications |
+| **Open Source** | Active learner and contributor in the open-source ecosystem |
+| **Industry Experience** | Secured Software Engineer Internship @ SnakeEye Corp |
 
 </div>
 
+<br/>
+
 ---
 
-<h2 align="center">Contribution Activity</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦  CERTIFICATIONS  ✦                            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Certifications-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+  <p><em>Actively working toward industry-recognized credentials</em></p>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thongchai-se&bg_color=0D0221&color=C9A7FF&line=8B5CF6&point=4F46E5&area=true&hide_border=true" width="90%"/>
+| Platform | Certification | Status |
+|:---:|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Cloud Practitioner / Solutions Architect | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square&labelColor=1a0533) |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Java SE Certification | ![Planned](https://img.shields.io/badge/Planned-6D28D9?style=flat-square&labelColor=1a0533) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | CCNA Networking | ![Planned](https://img.shields.io/badge/Planned-4F46E5?style=flat-square&labelColor=1a0533) |
+| ![NPTEL](https://img.shields.io/badge/NPTEL-7C3AED?style=flat-square&logo=bookstack&logoColor=white) | Programming / CS Courses | ![Planned](https://img.shields.io/badge/Planned-7C3AED?style=flat-square&labelColor=1a0533) |
 
 </div>
 
+<br/>
+
 ---
 
-<h2 align="center">Contribution Snake</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦  CODING PROFILES  ✦                           -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Coding%20Profiles-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+  <p><em>Where I sharpen algorithmic thinking and problem-solving skills</em></p>
+</div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a0533)](https://leetcode.com/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0533)](https://hackerrank.com/)
+&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0533)](https://www.geeksforgeeks.org/)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0533)](https://www.codechef.com/)
 
 </div>
 
+<br/>
+
 ---
 
-<h2 align="center">Current Focus</h2>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                 ✦  GITHUB ANALYTICS  ✦                           -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<table align="center" width="100%">
-<tr>
-<th>Learning</th>
-<th>Building</th>
-<th>Exploring</th>
-</tr>
-<tr>
-<td valign="top">
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-GitHub%20Analytics-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
 
-- System Design
-- AI Engineering
-- Cloud Computing
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thongchai-se&show_icons=true&theme=radical&bg_color=0d001a&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0&ring_color=6D28D9&hide_border=false&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thongchai-se&layout=compact&theme=radical&bg_color=0d001a&border_color=7C3AED&title_color=A855F7&text_color=E2E8F0&hide_border=false&langs_count=8" />
+</div>
 
-</td>
-<td valign="top">
+<br/>
 
-- AI Applications
-- Full Stack Projects
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Thongchai-se&theme=radical&background=0d001a&border=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=8B5CF6&dates=E2E8F0&stroke=7C3AED" />
+</div>
 
-</td>
-<td valign="top">
+<br/>
 
-- LLMs
-- RAG Systems
-- DevOps
+---
 
-</td>
-</tr>
-</table>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦  GITHUB TROPHIES  ✦                           -->
+<!--   FIX: ใช้ theme=discord_old_blurple + cachebust เพื่อป้องกัน   -->
+<!--        trophy ไม่ขึ้นจาก rate-limit / cache เก่า                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-GitHub%20Trophies-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Thongchai-se&theme=discord_old_blurple&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  </a>
+</div>
+
+<br/>
+
+> **Note :** ถ้า trophy ยังไม่ขึ้น → เปิด [github-profile-trophy.vercel.app/?username=Thongchai-se](https://github-profile-trophy.vercel.app/?username=Thongchai-se) ตรงๆ เพื่อ warm cache ก่อน หรือรอ commit แรกให้ GitHub index account
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--               ✦  CONTRIBUTION ACTIVITY  ✦                        -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Contribution%20Activity-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thongchai-se&bg_color=0d001a&color=A855F7&line=7C3AED&point=8B5CF6&area=true&area_color=4F46E5&hide_border=false&border_color=7C3AED&title_color=A855F7" />
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                ✦  CONTRIBUTION SNAKE  ✦                          -->
+<!--   FIX: snake ไม่ขึ้นเพราะไฟล์ SVG ยังไม่ถูก generate            -->
+<!--        ต้องสร้าง GitHub Actions workflow ก่อน (ดู setup ด้านล่าง) -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Contribution%20Snake-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake-dark.svg"
+      width="90%" />
+  </picture>
+</div>
+
+<br/>
+
+<details>
+<summary><b>› Snake Setup Guide (คลิกเพื่อดู)</b></summary>
+
+<br/>
+
+**ขั้นตอน:**
+
+1. สร้างไฟล์ `.github/workflows/snake.yml` ใน repo `Thongchai-se/Thongchai-se`
+2. วาง workflow นี้:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # รันทุกวัน เที่ยงคืน UTC
+  workflow_dispatch:        # รัน manual ได้
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Thongchai-se
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Push แล้วไปที่ **Actions** → รัน workflow ด้วยตัวเอง 1 ครั้ง
+4. SVG จะถูก commit ไปที่ branch `output` อัตโนมัติ
+
+</details>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ✦  CURRENT FOCUS  ✦                             -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Current%20Focus-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+</div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open%20To-Internship%20Opportunities-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering%20Roles-6A0DAD?style=for-the-badge"/>
+```
+ ╔══════════════════╦══════════════════╦══════════════════╗
+ ║    [ LEARNING ]  ║  [ BUILDING  ]   ║  [ EXPLORING ]   ║
+ ╠══════════════════╬══════════════════╬══════════════════╣
+ ║  System Design   ║ AI Applications  ║      LLMs        ║
+ ║  AI Engineering  ║ Full Stack Apps  ║  RAG Pipelines   ║
+ ║ Cloud Computing  ║  SaaS Products   ║  DevOps / CI-CD  ║
+ ╚══════════════════╩══════════════════╩══════════════════╝
+```
 
 </div>
 
----
-
-<h2 align="center">Connect</h2>
+<br/>
 
 <div align="center">
 
-<a href="mailto:thongchai.isaac@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Thongchai-se"><img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/></a>
+![System Design](https://img.shields.io/badge/System%20Design-Learning-8B5CF6?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=1a0533)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Building-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0533)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Exploring-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a0533)
+![DevOps](https://img.shields.io/badge/DevOps-Diving%20In-4F46E5?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a0533)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributing-3730A3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533)
 
 </div>
 
+<br/>
+
 ---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    ✦  CONNECT  ✦                                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/◈-Let's%20Connect-8B5CF6?style=flat-square&labelColor=0d001a&color=8B5CF6" />
+  </h2>
+  <p><em>Open to internship opportunities, software engineering roles, AI projects, and open source collaboration.</em></p>
+</div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Thongchai-se&style=for-the-badge&color=4B0082&label=PROFILE+VIEWS"/>
+[![Email](https://img.shields.io/badge/Email-thongchai.isaac%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533)](mailto:thongchai.isaac@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Thongchai--se-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533)](https://github.com/Thongchai-se)
+
+<br/>
+
+> *"Build things that scale. Ship things that matter."*
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      ✦  FOOTER  ✦                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Thanks%20for%20Visiting&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" />
+
+<br/>
+
+<sub>
+  <i>
+    Crafted by <a href="https://github.com/Thongchai-se"><strong>Thongchai Seesan</strong></a> &nbsp;·&nbsp;
+    Computer Science Student &nbsp;·&nbsp; Thailand &nbsp;·&nbsp;
+    <a href="mailto:thongchai.isaac@gmail.com">thongchai.isaac@gmail.com</a>
+  </i>
+</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:0D0221&height=120&section=footer" width="100%"/>
+![Footer Divider](https://img.shields.io/badge/──────────────────────────────────────────────────────────────────-7C3AED?style=flat-square&labelColor=7C3AED)
 
 </div>
