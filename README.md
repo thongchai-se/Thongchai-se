@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2e1065&height=220&section=header&text=Thongchai%20Seesan&fontSize=50&animation=fadeIn&fontColor=f3e8ff&theme=dark" width="100%" alt="Header Banner" />
   
-  <h3>🚀 Computer Science Student | Full Stack Developer | AI Engineer</h3>
+  <h3>Computer Science Student | Full Stack Developer | AI Engineer</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Thailand-6b21a8?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
     <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Roles%20%7C%20Collabs-3b82f6?style=flat-square" alt="Open To">
@@ -10,19 +10,19 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 > Computer Science student passionate about **Software Engineering**, **Full Stack Development**, **AI Engineering**, and **Product Development**. Experienced in building scalable web applications and AI-powered systems with modern technologies. Interested in cloud computing, DevOps, and building production-grade applications.
 
-### 🎯 Core Objectives & Open Opportunities
-* 🛠️ **Software Engineer Internship**
-* 💻 **Full Stack Developer Roles**
-* 🤖 **AI Engineer Roles**
-* 🌐 **Open Source Collaboration**
+### Core Objectives & Open Opportunities
+* ▪ **Software Engineer Internship**
+* ▪ **Full Stack Developer Roles**
+* ▪ **AI Engineer Roles**
+* ▪ **Open Source Collaboration**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -39,19 +39,19 @@
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <b>🧠 Foundation & Frameworks</b>
+      <b>Foundation & Frameworks</b>
       <ul>
         <li>OpenAI API Orchestration</li>
         <li>LangChain Framework Architecture</li>
       </ul>
     </td>
     <td width="50%">
-      <b>🔍 Architectural Implementations</b>
+      <b>Architectural Implementations</b>
       <ul>
         <li>Retrieval-Augmented Generation (RAG) Systems</li>
         <li>Advanced Prompt Engineering & Context Window Optimization</li>
@@ -62,50 +62,50 @@
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 <details>
-  <summary><b>🤖 AI Chatbot Platform (Click to expand)</b></summary>
+  <summary><b>AI Chatbot Platform (Click to expand)</b></summary>
   <br />
   <blockquote>
     AI-powered chatbot platform built with modern full-stack architecture.
   </blockquote>
 
-  ### 🏗️ Technical Specification Architecture
+  ### Technical Specification Architecture
   * **Stack:** Next.js, TypeScript, Node.js, PostgreSQL, Firebase
   * **Scale:** Production-ready multi-user system architecture.
   * **Performance:** Highly optimized API layers minimizing latency overhead.
   * **Security:** Cryptographically secure authentication and structural database separation.
   * **Impact:** Revolutionized automation benchmarks and maximized user interaction retention metrics.
 
-  ### 🔗 Repository Link
-  * 🌐 [Access Repository](https://github.com/Thongchai-se)
+  ### Repository Link
+  * ▪ [Access Repository](https://github.com/Thongchai-se)
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏢 Software Engineer Intern | SnakeEye Corp
+### Software Engineer Intern | SnakeEye Corp
 `2026 - Present`
 
-* 🛠️ Develop, scale, and structurally maintain critical enterprise software systems.
-* 👥 Collaborate within high-performing agile engineering cohorts to ship features efficiently.
-* 🏗️ Build, design, and optimize highly resilient, scalable backend service components.
-* 🔄 Work seamlessly across modern, production-grade continuous integration and development workflows.
+* ▪ Develop, scale, and structurally maintain critical enterprise software systems.
+* ▪ Collaborate within high-performing agile engineering cohorts to ship features efficiently.
+* ▪ Build, design, and optimize highly resilient, scalable backend service components.
+* ▪ Work seamlessly across modern, production-grade continuous integration and development workflows.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* 🎓 **Computer Science Student** at Khon Kaen University
-* 💻 **Software Engineering Enthusiast** pursuing enterprise design patterns
-* 🧠 **AI Engineering Enthusiast** focusing on generative system pipelines
-* 🌐 **Open Source Learner** deeply embedded in systemic technology tracking
+* ▪ **Computer Science Student** at Khon Kaen University
+* ▪ **Software Engineering Enthusiast** pursuing enterprise design patterns
+* ▪ **AI Engineering Enthusiast** focusing on generative system pipelines
+* ▪ **Open Source Learner** deeply embedded in systemic technology tracking
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Provider | Certification Course | Status |
 | :--- | :--- | :--- |
@@ -116,7 +116,7 @@
 
 ---
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -129,7 +129,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -146,7 +146,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thongchai-se&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
@@ -154,7 +154,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thongchai-se&theme=react-dark&bg_color=0D0B14&color=A855F7&line=A855F7&point=3b82f6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
@@ -162,7 +162,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thongchai-se/Thongchai-se/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
@@ -170,11 +170,14 @@
 
 ---
 
-## 🔍 Current Focus
+## Current Focus 
+[Learning] ───► System Design ────────► AI Engineering ──────► Cloud Computing
+[Building] ───► AI Applications ──────► Full Stack Projects
+[Exploring] ───► Large Language Models ──► RAG Systems ────────► DevOps Architecture
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -186,5 +189,5 @@
 ---
 
 <div align="center">
-  <p>⚡ Designed with premium metrics by Thongchai Seesan • © 2026 ⚡</p>
+  <p>Designed with premium metrics by Thongchai Seesan • © 2026</p>
 </div>
