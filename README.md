@@ -515,7 +515,7 @@ const thongchai = {
 
 <br/>
 
-> *"Build things that scale. Ship things that matter."*
+> *"Life is not a game of luck if you want to win, work hard"*
 
 </div>
 
