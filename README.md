@@ -515,7 +515,7 @@ const thongchai = {
 
 <br/>
 
-> *"Life is not a game of luck if you want to win, work hard"*
+*"Life is not a game of luck if you want to win, work hard"*
 
 </div>
 
