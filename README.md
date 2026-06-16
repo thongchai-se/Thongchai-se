@@ -458,51 +458,6 @@ const thongchai = {
 
 <br/>
 
-<details>
-<summary><b>› Snake Setup Guide (คลิกเพื่อดู)</b></summary>
-
-<br/>
-
-**ขั้นตอน:**
-
-1. สร้างไฟล์ `.github/workflows/snake.yml` ใน repo `Thongchai-se/Thongchai-se`
-2. วาง workflow นี้:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # รันทุกวัน เที่ยงคืน UTC
-  workflow_dispatch:        # รัน manual ได้
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Thongchai-se
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Push แล้วไปที่ **Actions** → รัน workflow ด้วยตัวเอง 1 ครั้ง
-4. SVG จะถูก commit ไปที่ branch `output` อัตโนมัติ
-
-</details>
-
 <br/>
 
 ---
