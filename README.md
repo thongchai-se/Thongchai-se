@@ -66,7 +66,7 @@ const thongchai = {
     "Open Source Collaboration"
   ],
 
-  philosophy  : "Build things that scale. Ship things that matter.",
+  philosophy  : "Life is not a game of luck if you want to win, work hard.",
 };
 ```
 
@@ -515,7 +515,7 @@ const thongchai = {
 
 <br/>
 
-*"Life is not a game of luck if you want to win, work hard"*
+*"Life is not a game of luck if you want to win, work hard."*
 
 </div>
 
